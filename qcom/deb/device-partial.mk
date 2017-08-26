@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/port-bridge:system/bin/port-bridge:qcom \
     vendor/qcom/deb/proprietary/qcks:system/bin/qcks:qcom \
     vendor/qcom/deb/proprietary/qmuxd:system/bin/qmuxd:qcom \
-    vendor/qcom/deb/proprietary/qseecomd:system/bin/qseecomd:qcom \
+    vendor/qcom/deb/proprietary/qseecomd:system/vendor/bin/qseecomd:qcom \
     vendor/qcom/deb/proprietary/radish:system/bin/radish:qcom \
     vendor/qcom/deb/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/deb/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \

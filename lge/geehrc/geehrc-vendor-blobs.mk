@@ -31,7 +31,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/bin/port-bridge:system/bin/port-bridge \
     $(LOCAL_PATH)/bin/qcks:system/bin/qcks \
     $(LOCAL_PATH)/bin/qmuxd:system/bin/qmuxd \
-    $(LOCAL_PATH)/bin/qseecomd:system/bin/qseecomd \
+    $(LOCAL_PATH)/bin/qseecomd:system/vendor/bin/qseecomd \
     $(LOCAL_PATH)/bin/radish:system/bin/radish \
     $(LOCAL_PATH)/bin/rmt_storage:system/bin/rmt_storage \
     $(LOCAL_PATH)/bin/sensors.qcom:system/bin/sensors.qcom \
