@@ -112,7 +112,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/librs_adreno.so:system/vendor/lib/librs_adreno.so:qcom \
     vendor/qcom/flo/proprietary/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so:qcom \
     vendor/qcom/flo/proprietary/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so:qcom \
-    vendor/qcom/flo/proprietary/libsensor1.so:system/lib/libsensor1.so:qcom \
     vendor/qcom/flo/proprietary/libsensor_reg.so:system/lib/libsensor_reg.so:qcom \
     vendor/qcom/flo/proprietary/libsensor_user_cal.so:system/lib/libsensor_user_cal.so:qcom \
     vendor/qcom/flo/proprietary/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so:qcom \
